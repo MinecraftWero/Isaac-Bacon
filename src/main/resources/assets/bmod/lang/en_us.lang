@@ -1,0 +1,25 @@
+itemGroup.tab_bacon=Bacon Tab
+
+item.raw_bacon.name=Raw Bacon
+item.cooked_bacon.name=Cooked Bacon
+item.gay_bacon.name=§1G§2a§3y §4B§5a§6c§7o§8n
+item.sandwich_bacon.name=Bacon Sandwich
+item.raw_beef.name=Raw Beef
+item.roast_beef.name=Roast Beef
+item.soup_beef.name=Beef Soup
+item.deluxe_sandwich.name=Deluxe Sandwich
+
+item.axe_bacon.name=Bacon Axe
+item.hoe_bacon.name=Bacon Hoe
+item.pickaxe_bacon.name=Bacon Pickaxe
+item.sword_bacon.name=Bacon Sword
+item.spade_bacon.name=Bacon Spade
+
+item.helmet_bacon.name=Bacon Helmet
+item.chestplate_bacon.name=Bacon Chestplate
+item.leggings_bacon.name=Bacon Leggings
+item.boots_bacon.name=Bacon Boots
+
+tile.block_raw_bacon.name=Raw Bacon Block
+tile.block_cooked_bacon.name=Cooked Bacon Block
+

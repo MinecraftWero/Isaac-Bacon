@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RER",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "bmod:raw_bacon"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:spawn_egg",
+    "nbt": {
+      "EntityTag": {
+        "id": "minecraft:pig"
+      }
+    }
+  }
+}

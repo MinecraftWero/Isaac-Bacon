@@ -1,0 +1,7 @@
+{
+  "item.launcher.shoot": {
+    "category": "item",
+    "subtitle": "item.launcher.shoot",
+    "sounds": [ { "name": "bmod:item/launcher/shoot", "stream": true } ]
+  }
+}

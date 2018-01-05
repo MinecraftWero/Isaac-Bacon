@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bmod:block_raw_bacon"
+    }
+  ],
+  "result": {
+    "item": "bmod:raw_bacon",
+    "count": 9
+  }
+}

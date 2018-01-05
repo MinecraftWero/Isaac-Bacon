@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+    "key": {
+        "R": {
+            "item": "bmod:raw_bacon"
+        }
+      },
+    "result": {
+        "item": "bmod:block_raw_bacon"
+    }
+}
